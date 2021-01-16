@@ -1,0 +1,3 @@
+type Mutation {
+  newUser(user: UserInput!): String!
+}

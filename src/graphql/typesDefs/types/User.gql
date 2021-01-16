@@ -1,0 +1,20 @@
+type User {
+  id: ID
+  name: String
+  secondName: String
+  paternalLastname: String
+  maternalLastname: String
+  birthday: String
+  email: String
+  numberPhone: String
+}
+
+input UserInput {
+  name: String
+  secondName: String
+  paternalLastname: String
+  maternalLastname: String
+  birthday: String
+  email: String
+  numberPhone: String
+}
