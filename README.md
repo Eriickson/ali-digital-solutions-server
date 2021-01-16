@@ -10,4 +10,4 @@
 - USER_DB
 - PASSWORD_DB
 - DATABASE_NAME
-4. Ejecutar el script npm run dev para desarrollo o npm start para producción
+4. Ejecutar el script <code>npm run dev</code> para desarrollo o <code>npm start</code> para producción
